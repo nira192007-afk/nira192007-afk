@@ -17,6 +17,15 @@
 - JavaScript
 - Python
 - Basic Full Stack Development
+  ## 🚀 My Projects
+
+### 1. Personal Portfolio Website
+- Building a responsive personal portfolio.
+- Technologies: HTML, CSS, JavaScript.
+
+### 2. World Monitor – Security Testing
+- Working on a project to check website security.
+- Technologies: Python, Flask.
 
 ### Education
 - Bachelor of Engineering (B.E.) – Computer Science and Engineering
