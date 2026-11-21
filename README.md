@@ -27,16 +27,32 @@
 - Working on a project to check website security.
 - Technologies: Python, Flask.
 
-### Education
-- Bachelor of Engineering (B.E.) – Computer Science and Engineering
+## 🎓 Education
+
+- B.E. Computer Science and Engineering
 - Sri Sairam Engineering College
+- Currently pursuing 2nd Year
 
 ### Goals
 - Improve my technical and communication skills.
 - Build real-world projects.
 - Become a skilled Software Developer.
 
-### Connect With Me
-- GitHub: [Your GitHub Profile URL](https://github.com/)
+## 📫 Connect With Me
+
+- GitHub: https://github.com/nira192007-afk
+- LinkedIn: Add your LinkedIn profile link here
+
+⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nira192007-afk&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nira192007-afk&theme=tokyonight)
+
+
 
 ✨ Learning, Building and Growing!
