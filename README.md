@@ -52,9 +52,10 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nira192007-afk&theme=tokyonight)
+
 ## 👀 Profile Visitors
 
-![Visitors](https://komarev.com/ghpvc/?username=nira192007-afk&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=nira192007-afk)
 
 
 
