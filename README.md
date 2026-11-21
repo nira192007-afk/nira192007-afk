@@ -54,9 +54,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=nira192007-afk&theme=tokyonight)
 
 
-
-![](https://komarev.com/ghpvc/?username=nira192007-afk)
-
-
-
 ✨ Learning, Building and Growing!
